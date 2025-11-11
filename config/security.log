@@ -1,0 +1,4 @@
+# Exchange Bridge Security Log
+[2025-11-11 04:23:54] [ACCESS] IP:37.186.40.96 SCRIPT:/main-files/index.php UA:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 MSG:System access from 37.186.40.96
+[2025-11-11 04:23:54] [PROXRÅDETECTED] IP:37.186.40.96 SCRIPT:/main-files/index.php UA:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 MSG:Proxy usage detected via header: HTTP_X_FORWARDED_FOR
+[2025-11-11 04:23:54] [LICENSE_OK] IP:37.186.40.96 SCRIPT:/main-files/index.php UA:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 MSG:License verification successful
