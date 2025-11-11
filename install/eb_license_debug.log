@@ -1,0 +1,21 @@
+[2025-11-11 04:22:07] [EBLicenseVerifier] EBLicenseVerifier v2.0.0 initialized
+[2025-11-11 04:22:07] [EBLicenseVerifier] License Key: EB-EBNAC-H...
+[2025-11-11 04:22:07] [EBLicenseVerifier] Domain: demo.exchange-bridge.rf.gd
+[2025-11-11 04:22:07] [EBLicenseVerifier] IP: 37.186.40.96
+[2025-11-11 04:22:07] [EBLicenseVerifier] API URL: https://eb-admin.rf.gd/api.php
+[2025-11-11 04:22:07] [EBLicenseVerifier] Activating license with server: https://eb-admin.rf.gd/api.php
+[2025-11-11 04:22:07] [EBLicenseVerifier] Activation data: {"action":"activate","license_key":"EB-EBNAC-HOVAR-GABET-TERCA","domain":"demo.exchange-bridge.rf.gd","ip":"37.186.40.96","api_key":"d7x9HgT2...","product":"default"}
+[2025-11-11 04:22:07] [EBLicenseVerifier] cURL HTTP Code: 200
+[2025-11-11 04:22:07] [EBLicenseVerifier] Activation response: {"status":"error","message":"Maximum domain activations reached for this license (limit: 1)","license_status":"inactive"}
+[2025-11-11 04:22:07] [EBLicenseVerifier] License activation failed: Maximum domain activations reached for this license (limit: 1)
+[2025-11-11 04:22:07] [EBLicenseVerifier] Activation error: Maximum domain activations reached for this license (limit: 1)
+[2025-11-11 04:22:31] [EBLicenseVerifier] EBLicenseVerifier v2.0.0 initialized
+[2025-11-11 04:22:31] [EBLicenseVerifier] License Key: EB-NACHO-V...
+[2025-11-11 04:22:31] [EBLicenseVerifier] Domain: demo.exchange-bridge.rf.gd
+[2025-11-11 04:22:31] [EBLicenseVerifier] IP: 37.186.40.96
+[2025-11-11 04:22:31] [EBLicenseVerifier] API URL: https://eb-admin.rf.gd/api.php
+[2025-11-11 04:22:31] [EBLicenseVerifier] Activating license with server: https://eb-admin.rf.gd/api.php
+[2025-11-11 04:22:31] [EBLicenseVerifier] Activation data: {"action":"activate","license_key":"EB-NACHO-VARGA-BETTE-RCALL","domain":"demo.exchange-bridge.rf.gd","ip":"37.186.40.96","api_key":"d7x9HgT2...","product":"default"}
+[2025-11-11 04:22:31] [EBLicenseVerifier] cURL HTTP Code: 200
+[2025-11-11 04:22:31] [EBLicenseVerifier] Activation response: {"status":"success","message":"License activated successfully","validation_type":"automatic","license_status":"active","expires":null}
+[2025-11-11 04:22:31] [EBLicenseVerifier] License activated successfully
